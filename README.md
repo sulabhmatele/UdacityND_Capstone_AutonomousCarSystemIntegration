@@ -1,4 +1,6 @@
 # Self-Driving Car Nanodegree Capstone Project (Team: ThinkLikeCar)
+(Note: This is the copy of the submission repo, please refer this link for any latest updates:
+[Link to Submission](https://github.com/Udacity-CarND-TeamThinkLikeCar/System_Integration_Submission_TeamThinkLikeCar))
 
 ## Overview
 
