@@ -1,0 +1,8 @@
+prefix=/udacity/System_Integration_Submission_TeamThinkLikeCar/ros/install
+
+Name: camera_info_publisher
+Description: Description of camera_info_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L/udacity/System_Integration_Submission_TeamThinkLikeCar/ros/install/lib 
+Requires: 

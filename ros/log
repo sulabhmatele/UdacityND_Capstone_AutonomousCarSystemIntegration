@@ -1,0 +1,189 @@
+[DEBUG] [1516478843.286722]: init_node, name[/waypoint_updater], pid[3140]
+[DEBUG] [1516478843.287025]: binding to 0.0.0.0 0
+[DEBUG] [1516478843.287193]: bound to 0.0.0.0 37492
+[DEBUG] [1516478843.287488]: ... service URL is rosrpc://2cc993e8fca5:37492
+[DEBUG] [1516478843.287647]: [/waypoint_updater/get_loggers]: new Service instance
+[DEBUG] [1516478843.289184]: ... service URL is rosrpc://2cc993e8fca5:37492
+[DEBUG] [1516478843.289411]: [/waypoint_updater/set_logger_level]: new Service instance
+[DEBUG] [1516478843.298493]: node[/waypoint_updater, http://2cc993e8fca5:40655/] entering spin(), pid[3140]
+[DEBUG] [1516478843.302633]: connecting to 2cc993e8fca5 33302
+[DEBUG] [1516478843.344690]: connecting to 2cc993e8fca5 43952
+[DEBUG] [1516478844.469778]: connecting to 2cc993e8fca5 36597
+[DEBUG] [1516478858.830094]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478862.182218]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478863.845581]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478865.433234]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478867.118027]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478868.691015]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478870.262222]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478871.866511]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478873.511586]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478875.166124]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478876.772431]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478878.362354]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478879.906636]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478881.531653]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478883.323000]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478885.163315]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478886.831328]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478888.540369]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478890.259067]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478891.999899]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478893.685558]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478895.357980]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478897.114263]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478900.086493]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478901.537217]: +++++++++++++ Clearing Stop Request, if any
+[DEBUG] [1516478902.483981]: connecting to 2cc993e8fca5 33302
+[DEBUG] [1516478844.380547]: init_node, name[/tl_detector], pid[3187]
+[DEBUG] [1516478844.380781]: binding to 0.0.0.0 0
+[DEBUG] [1516478844.380942]: bound to 0.0.0.0 36597
+[DEBUG] [1516478844.381224]: ... service URL is rosrpc://2cc993e8fca5:36597
+[DEBUG] [1516478844.381390]: [/tl_detector/get_loggers]: new Service instance
+[DEBUG] [1516478844.382511]: ... service URL is rosrpc://2cc993e8fca5:36597
+[DEBUG] [1516478844.382660]: [/tl_detector/set_logger_level]: new Service instance
+[DEBUG] [1516478844.407907]: connecting to 2cc993e8fca5 33302
+[DEBUG] [1516478844.412067]: connecting to 2cc993e8fca5 33302
+[DEBUG] [1516478844.414868]: connecting to 2cc993e8fca5 43952
+[DEBUG] [1516478844.416582]: connecting to 2cc993e8fca5 33302
+[DEBUG] [1516478844.946847]: node[/tl_detector, http://2cc993e8fca5:45350/] entering spin(), pid[3187]
+[DEBUG] [1516478854.091872]: connecting to 2cc993e8fca5 33302
+('car_position', 273)
+('idx_dist', 19)
+[DEBUG] [1516478856.989420]: red
+('returning ', 292, 0)
+('car_position', 285)
+('idx_dist', 7)
+[DEBUG] [1516478858.828335]: red
+('returning ', 292, 0)
+('car_position', 310)
+('car_position', 339)
+('car_position', 364)
+('car_position', 385)
+('car_position', 402)
+('car_position', 420)
+('car_position', 439)
+('car_position', 459)
+('car_position', 482)
+('car_position', 502)
+('car_position', 522)
+('car_position', 548)
+('car_position', 571)
+('car_position', 592)
+('car_position', 608)
+('idx_dist', 145)
+[DEBUG] [1516478883.322358]: none
+('returning ', 753, 4)
+('car_position', 632)
+('idx_dist', 121)
+[DEBUG] [1516478885.162693]: none
+('returning ', 753, 4)
+('car_position', 662)
+('idx_dist', 91)
+[DEBUG] [1516478886.830662]: none
+('returning ', 753, 4)
+('car_position', 691)
+('idx_dist', 62)
+[DEBUG] [1516478888.539844]: none
+('returning ', 753, 4)
+('car_position', 711)
+('idx_dist', 42)
+[DEBUG] [1516478890.256346]: none
+('returning ', 753, 4)
+('car_position', 726)
+('idx_dist', 27)
+[DEBUG] [1516478891.999138]: none
+('returning ', 753, 4)
+('car_position', 739)
+('idx_dist', 14)
+[DEBUG] [1516478893.684870]: none
+('returning ', 753, 4)
+('car_position', 752)
+('idx_dist', 1)
+[DEBUG] [1516478895.357376]: none
+('returning ', 753, 4)
+('car_position', 752)
+('idx_dist', 1)
+[DEBUG] [1516478897.113061]: none
+('returning ', 753, 4)
+('car_position', 752)
+('idx_dist', 1)
+[DEBUG] [1516478898.674997]: red
+('returning ', 753, 0)
+('car_position', 752)
+('idx_dist', 1)
+[DEBUG] [1516478900.085810]: red
+('returning ', 753, 0)
+('car_position', 752)
+('idx_dist', 1)
+[DEBUG] [1516478901.536586]: red
+('returning ', 753, 0)
+[DEBUG] [1516478902.482621]: connecting to 2cc993e8fca5 33302
+[DEBUG] [1516478902.483207]: connecting to 2cc993e8fca5 33302
+[DEBUG] [1516478902.484745]: connecting to 2cc993e8fca5 33302
+[DEBUG] [1516478902.489742]: connecting to 2cc993e8fca5 43952
+... logging to /home/udacity/.ros/log/851826dc-fe1d-11e7-8259-0242ac110002/roslaunch-2cc993e8fca5-2998.log
+Checking log directory for disk usage. This may take awhile.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;launch/styx.launch
+[1mstarted roslaunch server http://2cc993e8fca5:36079/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /dbw_node/accel_limit: 1.0
+ * /dbw_node/brake_deadband: 0.2
+ * /dbw_node/decel_limit: -5.0
+ * /dbw_node/fuel_capacity: 0.0
+ * /dbw_node/max_lat_accel: 3.0
+ * /dbw_node/max_steer_angle: 8.0
+ * /dbw_node/steer_ratio: 14.8
+ * /dbw_node/vehicle_mass: 1080.0
+ * /dbw_node/wheel_base: 3
+ * /dbw_node/wheel_radius: 0.335
+ * /pure_pursuit/linear_interpolate_mode: True
+ * /rosdistro: kinetic
+ * /rosversion: 1.12.7
+ * /traffic_light_config: <...>
+ * /waypoint_loader/path: /udacity/System_I...
+ * /waypoint_loader/velocity: 40
+
+NODES
+  /
+    dbw_node (twist_controller/dbw_node.py)
+    pure_pursuit (waypoint_follower/pure_pursuit)
+    styx_server (styx/server.py)
+    tl_detector (tl_detector/tl_detector.py)
+    unity_simulator (styx/unity_simulator_launcher.sh)
+    waypoint_loader (waypoint_loader/waypoint_loader.py)
+    waypoint_updater (waypoint_updater/waypoint_updater.py)
+
+auto-starting new master
+[1mprocess[master]: started with pid [3009][0m
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;launch/styx.launch http://localhost:11311
+[1msetting /run_id to 851826dc-fe1d-11e7-8259-0242ac110002[0m
+[1mprocess[rosout-1]: started with pid [3022][0m
+started core service [/rosout]
+[1mprocess[styx_server-2]: started with pid [3039][0m
+[1mprocess[unity_simulator-3]: started with pid [3040][0m
+[1m[unity_simulator-3] process has finished cleanly
+log file: /home/udacity/.ros/log/851826dc-fe1d-11e7-8259-0242ac110002/unity_simulator-3*.log[0m
+[1mprocess[dbw_node-4]: started with pid [3049][0m
+[1mprocess[waypoint_loader-5]: started with pid [3057][0m
+[1mprocess[pure_pursuit-6]: started with pid [3112][0m
+[1mprocess[waypoint_updater-7]: started with pid [3140][0m
+[1mprocess[tl_detector-8]: started with pid [3187][0m
+[tl_detector-8] killing on exit
+[waypoint_updater-7] killing on exit
+[pure_pursuit-6] killing on exit
+[waypoint_loader-5] killing on exit
+[dbw_node-4] killing on exit
+[styx_server-2] killing on exit
+[rosout-1] killing on exit
+[master] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m

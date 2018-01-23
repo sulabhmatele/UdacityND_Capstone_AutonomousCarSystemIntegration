@@ -1,0 +1,8 @@
+prefix=/udacity/System_Integration_Submission_TeamThinkLikeCar/ros/devel
+
+Name: styx_msgs
+Description: Description of styx_msgs
+Version: 0.0.0
+Cflags: -I/udacity/System_Integration_Submission_TeamThinkLikeCar/ros/devel/include
+Libs: -L/udacity/System_Integration_Submission_TeamThinkLikeCar/ros/devel/lib 
+Requires: 
